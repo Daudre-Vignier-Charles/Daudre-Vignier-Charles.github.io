@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "e54325b2c2712cc86ef638ecb8c38c06"
+        "md5": "53cd0958998a5f586316118df0bf5503"
     },
     {
         "path": "assets",
@@ -110,19 +110,29 @@
         "md5": false
     },
     {
+        "path": "authors/charles-daudre-vignier",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/charles-daudre-vignier/index.html",
+        "type": "file",
+        "md5": "40f38412c6f5517538752cb2d5f00171"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "315780a3d3fb5a9fa43125ec1aa4befb"
+        "md5": "8d9e7c1a6d4df8ab99176c9c187a321b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "72f9e07658bca2069906ed450af06a2d"
+        "md5": "722abe5548be45f4602c81c7145c2d25"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "fc623a13e14776c38ed668e83dd68b4f"
+        "md5": "6e5be6d34ffc8d348e8f3708afad92fb"
     },
     {
         "path": "media",
@@ -140,14 +150,94 @@
         "md5": false
     },
     {
+        "path": "/media/website/logo.png",
+        "type": "file",
+        "md5": "ab7e3a4ebb0fbd5b1589d3dac87a01b1"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/logo-2xl.png",
+        "type": "file",
+        "md5": "f6100179b46286342efc5ab0728e7ac4"
+    },
+    {
+        "path": "/media/website/responsive/logo-lg.png",
+        "type": "file",
+        "md5": "e35835502d7dec9d08915651b898baaa"
+    },
+    {
+        "path": "/media/website/responsive/logo-md.png",
+        "type": "file",
+        "md5": "d0a43d9af2b219f566bc31eefff3fb65"
+    },
+    {
+        "path": "/media/website/responsive/logo-sm.png",
+        "type": "file",
+        "md5": "eb8517a19095c7309d9b1facb1bac188"
+    },
+    {
+        "path": "/media/website/responsive/logo-xl.png",
+        "type": "file",
+        "md5": "736c8152d0030aad0e74c16e35b1cf43"
+    },
+    {
+        "path": "/media/website/responsive/logo-xs.png",
+        "type": "file",
+        "md5": "8d57d9a0ea6fe401c604fd0c3cff026c"
+    },
+    {
+        "path": "/media/website/responsive/tof_charles-2xl.jpg",
+        "type": "file",
+        "md5": "b5c8431987270a77161014e0463a7f2f"
+    },
+    {
+        "path": "/media/website/responsive/tof_charles-lg.jpg",
+        "type": "file",
+        "md5": "fdfa47ba40857f709bd102f28b660c8e"
+    },
+    {
+        "path": "/media/website/responsive/tof_charles-md.jpg",
+        "type": "file",
+        "md5": "d0f1e202947bbe8a48ae83937c4ed9b8"
+    },
+    {
+        "path": "/media/website/responsive/tof_charles-sm.jpg",
+        "type": "file",
+        "md5": "8c2b5af61c698ab0fa5b30ccb0010050"
+    },
+    {
+        "path": "/media/website/responsive/tof_charles-xl.jpg",
+        "type": "file",
+        "md5": "b5c8431987270a77161014e0463a7f2f"
+    },
+    {
+        "path": "/media/website/responsive/tof_charles-xs.jpg",
+        "type": "file",
+        "md5": "ff5d790d0bc56d53e94b2e04fb6f65b5"
+    },
+    {
+        "path": "/media/website/tof_charles.jpg",
+        "type": "file",
+        "md5": "0b3894d12ca46bcf5825efca33d1bcc9"
+    },
+    {
         "path": "search.html",
         "type": "file",
-        "md5": "346924cdec63169db30f9757224a8802"
+        "md5": "94a790c2a9705d4e076075285a56bd2d"
+    },
+    {
+        "path": "serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html",
+        "type": "file",
+        "md5": "2275cc100cebf92d76d526ad88b797ab"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "edf08cc7b2cf20f667d93c414db0f3bf"
+        "md5": "529c06361441c8546ca802b29bfc8f36"
     },
     {
         "path": "sitemap.xsl",
