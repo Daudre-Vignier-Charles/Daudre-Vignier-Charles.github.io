@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "53cd0958998a5f586316118df0bf5503"
+        "md5": "bf032c83210a26c1982bc2f630f7919d"
     },
     {
         "path": "assets",
@@ -117,22 +117,22 @@
     {
         "path": "/authors/charles-daudre-vignier/index.html",
         "type": "file",
-        "md5": "40f38412c6f5517538752cb2d5f00171"
+        "md5": "162ae0bf4665083935117e72e5d62060"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8d9e7c1a6d4df8ab99176c9c187a321b"
+        "md5": "f6ca2e37cac2f5beb357d63274f3912d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "722abe5548be45f4602c81c7145c2d25"
+        "md5": "cd31c1921982da586a2966fbca7b3fa2"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6e5be6d34ffc8d348e8f3708afad92fb"
+        "md5": "be376bedeac2d2dce3fe4400d7a130ba"
     },
     {
         "path": "media",
@@ -227,17 +227,17 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "94a790c2a9705d4e076075285a56bd2d"
+        "md5": "8ade424973d7eb8b573a8cff90b18392"
     },
     {
         "path": "serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html",
         "type": "file",
-        "md5": "2275cc100cebf92d76d526ad88b797ab"
+        "md5": "29a5f47584adf17b03d5579098b26e25"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "529c06361441c8546ca802b29bfc8f36"
+        "md5": "c3fe00ab066342d469ce7a8f000bdeae"
     },
     {
         "path": "sitemap.xsl",
