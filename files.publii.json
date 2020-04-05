@@ -122,12 +122,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b30718b7f0b78a6f4a1d35a158fee60c"
+        "md5": "1ade4ce788c72aac99753671cab15de5"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "14fa4f43f579e713905f142143c2a82b"
+        "md5": "361e9e0adaa52f078355b9b054ca414a"
     },
     {
         "path": "index.html",
@@ -232,12 +232,12 @@
     {
         "path": "serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html",
         "type": "file",
-        "md5": "779aa328d96ca5799c3f4b8b9b950058"
+        "md5": "af347628b1d49de5aeffb075c387ded5"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b79c35dbe6ff463635792fd54515281b"
+        "md5": "19a5d082ee5b5cf3fc47ba2436771043"
     },
     {
         "path": "sitemap.xsl",
