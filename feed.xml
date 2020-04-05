@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Charles Daudré-Vignier</title>
-    <link href="/feed.xml" rel="self" />
-    <link href="" />
-    <updated>2020-04-05T23:33:40+02:00</updated>
+    <link href="https://daudre-vignier-charles.github.io/Daudre-Vignier-Charles.github.io/feed.xml" rel="self" />
+    <link href="https://daudre-vignier-charles.github.io/Daudre-Vignier-Charles.github.io" />
+    <updated>2020-04-06T00:22:17+02:00</updated>
     <author>
         <name>Charles Daudré-Vignier</name>
     </author>
-    <id></id>
+    <id>https://daudre-vignier-charles.github.io/Daudre-Vignier-Charles.github.io</id>
 
     <entry>
         <title>Serais-je votre nouvel Administrateur Système, Réseau et Cloud ?</title>
         <author>
             <name>Charles Daudré-Vignier</name>
         </author>
-        <link href="/serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html"/>
-        <id>/serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html</id>
+        <link href="https://daudre-vignier-charles.github.io/Daudre-Vignier-Charles.github.io/serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html"/>
+        <id>https://daudre-vignier-charles.github.io/Daudre-Vignier-Charles.github.io/serais-je-votre-nouvel-administrateur-systeme-reseau-et-cloud.html</id>
 
         <updated>2020-04-05T23:33:30+02:00</updated>
             <summary>
